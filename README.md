@@ -1,3 +1,5 @@
+> **Moved:** This skill is now maintained in [Today20092/skills](https://github.com/Today20092/skills). Install and update it from that repository. This repository is retained for existing links and historical reference.
+
 # Skills Making
 
 A growing collection of focused agent skills: small, reusable workflows that help people get specific work done in their projects.
@@ -7,7 +9,7 @@ A growing collection of focused agent skills: small, reusable workflows that hel
 Install the AGENTS.md field study review with the [`skills` CLI](https://github.com/vercel-labs/skills):
 
 ```sh
-npx skills add Today20092/skills-making --skill agents-md-field-study
+npx skills add Today20092/skills --skill agents-md-field-study
 ```
 
 The CLI will ask which supported coding agent to install it for. Add `--global` to install it for your user account instead of the current project.
